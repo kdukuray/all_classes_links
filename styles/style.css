@@ -33,7 +33,7 @@ body{
 
 .course-title{
     font-size: 24px;
-    margin-bottom: 100px;
+    margin-bottom: 60px;
     border-bottom: 2px blue solid;
     text-align: center;
 }
@@ -44,7 +44,7 @@ body{
 
 
 dl{
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 
 dt{
